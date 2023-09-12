@@ -17,7 +17,7 @@
 [![My Connections](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/usamahussain7073/)
 
 ## **Languages and Tools**
-[![My Languages and Tools](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,express,materialui,firebase,graphql,azure,bootstrap,dotnet,php,js,py,mysql,jquery,selenium,html,css,git,bash,powershell,visualstudio,vscode,linux,ps&perline=13)]
+![My Languages and Tools](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,express,materialui,firebase,graphql,azure,bootstrap,dotnet,php,js,py,mysql,jquery,selenium,html,css,git,bash,powershell,visualstudio,vscode,linux,ps&perline=13)
 
 
 
