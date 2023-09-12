@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Usama Hussain</h1>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<!--
-**Usamahussain7073/Usamahussain7073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning on **Personal Projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Next JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **React (Desktop/Native) Projects**
+
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/Usamahussain7073)
+
+- 📫 Reach me at **usamahussain7073@gmail.com**
+
+
+## **Connect with me:**
+
+[![My Connections](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/usamahussain7073/)
+
+## **Languages and Tools**
+[![My Languages and Tools](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,express,materialui,firebase,graphql,azure,bootstrap,dotnet,php,js,py,mysql,jquery,selenium,html,css,git,bash,powershell,visualstudio,vscode,linux,ps&perline=13)]
+
+
+
+
+
