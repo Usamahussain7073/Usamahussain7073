@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Hussain</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-- 🔭 I’m currently learning on **Personal Projects**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **Next JS**
 
