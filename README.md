@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Flutter with Dast**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **React (Desktop/Native) Projects**
 
